@@ -16,6 +16,11 @@
   name = "Tags"
   pageRef = "tags"
   weight = 10
+  
+[[main]]
+  name = "韩国演艺圈偷拍事件"
+  pageRef = "KoreanEnt"
+  weight = 10
 
 #[[main]]
 #  name = "Gitlab"
